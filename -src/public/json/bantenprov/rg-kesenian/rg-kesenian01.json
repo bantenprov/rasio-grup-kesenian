@@ -3,130 +3,290 @@
     "chartdata": {
       "grafik": [
         {
-          "wilayah": "Banten",
-          "tingkat": "Garis Kemiskinan(rupiah)",
-          "name": "Makanan",
+          "wilayah": "Pandeglang",
+          "tingkat": "Kabupaten",
+          "name": "Jumlah Grup Kesenian",
           "tahun": [
             {
-              "September/2013": 204811,
-              "September/2014": 223825,
-              "September/2015": 250522,
-              "September/2016": 262422
+              "2013": 171,
+              "2014": 209,
+              "2015": 209
             }
           ]
         },
         {
-          "wilayah": "Banten",
-          "tingkat": "Garis Kemiskinan(rupiah)",
-          "name": "Non Makanan",
+          "wilayah": "Lebak",
+          "tingkat": "Kabupaten",
+          "name": "Jumlah Grup Kesenian",
           "tahun": [
             {
-              "September/2013": 83923,
-              "September/2014": 91994,
-              "September/2015": 105914,
-              "September/2016": 110923
+              "2013": 123,
+              "2014": 159,
+              "2015": 154
             }
           ]
         },
         {
-          "wilayah": "Indonesia",
-          "tingkat": "Garis Kemiskinan(rupiah)",
-          "name": "Makanan",
+          "wilayah": "Tangerang",
+          "tingkat": "Kabupaten",
+          "name": "Jumlah Grup Kesenian",
           "tahun": [
             {
-              "September/2013": 215122,
-              "September/2014": 229469,
-              "September/2015": 251943,
-              "September/2016": 264941
+              "2013": 255,
+              "2014": 336,
+              "2015": 336
             }
           ]
         },
         {
-          "wilayah": "Indonesia",
-          "tingkat": "Garis Kemiskinan(rupiah)",
-          "name": "Non Makanan",
+          "wilayah": "Serang",
+          "tingkat": "Kabupaten",
+          "name": "Jumlah Grup Kesenian",
           "tahun": [
             {
-              "September/2013": 77829,
-              "September/2014": 82859,
-              "September/2015": 92866,
-              "September/2016": 97050
+              "2013": 29,
+              "2014": 41,
+              "2015": 37
             }
           ]
         },
         {
-          "wilayah": "Banten",
-          "name": "Total",
+          "wilayah": "Tangerang",
+          "tingkat": "Kota",
+          "name": "Jumlah Grup Kesenian",
           "tahun": [
             {
-              "September/2013": 288733,
-              "September/2014": 315819,
-              "September/2015": 356436,
-              "September/2016": 373365
+              "2013": 430,
+              "2014": 851,
+              "2015": 851
             }
           ]
         },
         {
-          "wilayah": "Indonesia",
-          "name": "Total",
+          "wilayah": "Cilegon",
+          "tingkat":"Kota",
+          "name": "Jumlah Grup Kesenian",
           "tahun": [
             {
-              "September/2013": 292951,
-              "September/2014": 312328,
-              "September/2015": 344809,
-              "September/2016": 361990
+              "2013": 71,
+              "2014": 73,
+              "2015": 73
             }
           ]
         },
         {
-          "wilayah": "Banten",
-          "tingkat": "Penduduk Miskin",
-          "name": "Jumlah Miskin",
+          "wilayah": "Serang",
+          "tingkat": "Kota",
+          "name": "Jumlah Grup Kesenian",
           "tahun": [
             {
-              "September/2013": 677508,
-              "September/2014": 649188,
-              "September/2015": 690668,
-              "September/2016": 657740
+              "2013": 71,
+              "2014": 127,
+              "2015": 127
             }
           ]
         },
         {
-          "wilayah": "Indonesia",
-          "tingkat": "Penduduk Miskin",
-          "name": "Jumlah Miskin",
+          "wilayah": "Tangerang Selatan",
+          "tingkat": "Kota",
+          "name": "Jumlah Grup Kesenian",
           "tahun": [
             {
-              "September/2013": 28606685,
-              "September/2014": 27727778,
-              "September/2015": 28513570,
-              "September/2016": 27764320
-            }
-          ]
-        },
-                {
-          "wilayah": "Banten",
-          "tingkat": "Penduduk Tidak Miskin",
-          "name": "Jumlah",
-          "tahun": [
-            {
-              "September/2013": 10817834,
-              "September/2014": 11126494,
-              "September/2015": 11325308,
-              "September/2016": 11606265
+              "2013": 49,
+              "2014": 59,
+              "2015": 59
             }
           ]
         },
         {
-          "wilayah": "Indonesia",
-          "tingkat": "Penduduk Tidak Miskin",
-          "name": "Jumlah",
+          "wilayah": "Pandeglang",
+          "tingkat": "Kabupaten",
+          "name": "Jumlah Penduduk",
           "tahun": [
             {
-              "September/2013": 221027765,
-              "September/2014": 225337016,
-              "September/2015": 227719363,
-              "September/2016": 231733374
+              "2013": 1183006,
+              "2014": 1259305,
+              "2015": 1269812
+            }
+          ]
+        },
+        {
+          "wilayah": "Lebak",
+          "tingkat": "Kabupaten",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 1247906,
+              "2014": 1259305,
+              "2015": 1194911
+            }
+          ]
+        },
+        {
+          "wilayah": "Tangerang",
+          "tingkat": "Kabupaten",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 3157780,
+              "2014": 3264776,
+              "2015": 3370594
+            }
+          ]
+        },
+        {
+          "wilayah": "Serang",
+          "tingkat": "Kabupaten",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 1450894,
+              "2014": 1463094,
+              "2015": 1474301
+            }
+          ]
+        },
+        {
+          "wilayah": "Tangerang",
+          "tingkat": "Kota",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 1952396,
+              "2014": 1999894,
+              "2015": 2047105
+            }
+          ]
+        },
+        {
+          "wilayah": "Cilegon",
+          "tingkat": "Kota",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 398304,
+              "2014": 405303,
+              "2015": 412106
+            }
+          ]
+        },
+        {
+          "wilayah": "Serang",
+          "tingkat": "Kota",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 618802,
+              "2014": 631101,
+              "2015": 643205
+            }
+          ]
+        },
+        {
+          "wilayah": "Tangerang Selatan",
+          "tingkat": "Kota",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 1443403,
+              "2014": 1492999,
+              "2015": 1543209
+            }
+          ]
+        },
+        {
+          "wilayah": "Pandeglang",
+          "tingkat": "Kabupaten",
+          "name": "RGKs",
+          "tahun": [
+            {
+              "2013": 14.45,
+              "2014": 17.59,
+              "2015": 17.49
+            }
+          ]
+        },
+        {
+          "wilayah": "Lebak",
+          "tingkat": "Kabupaten",
+          "name": "RGKs",
+          "tahun": [
+            {
+              "2013": 9.86,
+              "2014": 12.63,
+              "2015": 12.13
+            }
+          ]
+        },
+        {
+          "wilayah": "Tangerang",
+          "tingkat": "Kabupaten",
+          "name": "RGKs",
+          "tahun": [
+            {
+              "2013": 8.08,
+              "2014": 10.29,
+              "2015": 9.97
+            }
+          ]
+        },
+        {
+          "wilayah": "Serang",
+          "tingkat": "Kabupaten",
+          "name": "RGKs",
+          "tahun": [
+            {
+              "2013": 2.00,
+              "2014": 2.80,
+              "2015": 2.51
+            }
+          ]
+        },
+        {
+          "wilayah": "Tangerang",
+          "tingkat": "Kota",
+          "name": "RGKs",
+          "tahun": [
+            {
+              "2013": 22.02,
+              "2014": 42.55,
+              "2015": 41.57
+            }
+          ]
+        },
+        {
+          "wilayah": "Cilegon",
+          "tingkat": "Kota",
+          "name": "RGKs",
+          "tahun": [
+            {
+              "2013": 17.83,
+              "2014": 18.01,
+              "2015": 17.71
+            }
+          ]
+        },
+        {
+          "wilayah": "Serang",
+          "tingkat": "Kota",
+          "name": "RGKs",
+          "tahun": [
+            {
+              "2013": 11.74,
+              "2014": 20.12,
+              "2015": 19.74
+            }
+          ]
+        },
+        {
+          "wilayah": "Tangerang Selatan",
+          "tingkat": "Kota",
+          "name": "RGKs",
+          "tahun": [
+            {
+              "2013": 3.39,
+              "2014": 3.95,
+              "2015": 3.82
             }
           ]
         }
