@@ -1,0 +1,136 @@
+[
+  {
+    "chartdata": {
+      "grafik": [
+        {
+          "wilayah": "Banten",
+          "tingkat": "Garis Kemiskinan(rupiah)",
+          "name": "Makanan",
+          "tahun": [
+            {
+              "September/2013": 204811,
+              "September/2014": 223825,
+              "September/2015": 250522,
+              "September/2016": 262422
+            }
+          ]
+        },
+        {
+          "wilayah": "Banten",
+          "tingkat": "Garis Kemiskinan(rupiah)",
+          "name": "Non Makanan",
+          "tahun": [
+            {
+              "September/2013": 83923,
+              "September/2014": 91994,
+              "September/2015": 105914,
+              "September/2016": 110923
+            }
+          ]
+        },
+        {
+          "wilayah": "Indonesia",
+          "tingkat": "Garis Kemiskinan(rupiah)",
+          "name": "Makanan",
+          "tahun": [
+            {
+              "September/2013": 215122,
+              "September/2014": 229469,
+              "September/2015": 251943,
+              "September/2016": 264941
+            }
+          ]
+        },
+        {
+          "wilayah": "Indonesia",
+          "tingkat": "Garis Kemiskinan(rupiah)",
+          "name": "Non Makanan",
+          "tahun": [
+            {
+              "September/2013": 77829,
+              "September/2014": 82859,
+              "September/2015": 92866,
+              "September/2016": 97050
+            }
+          ]
+        },
+        {
+          "wilayah": "Banten",
+          "name": "Total",
+          "tahun": [
+            {
+              "September/2013": 288733,
+              "September/2014": 315819,
+              "September/2015": 356436,
+              "September/2016": 373365
+            }
+          ]
+        },
+        {
+          "wilayah": "Indonesia",
+          "name": "Total",
+          "tahun": [
+            {
+              "September/2013": 292951,
+              "September/2014": 312328,
+              "September/2015": 344809,
+              "September/2016": 361990
+            }
+          ]
+        },
+        {
+          "wilayah": "Banten",
+          "tingkat": "Penduduk Miskin",
+          "name": "Jumlah Miskin",
+          "tahun": [
+            {
+              "September/2013": 677508,
+              "September/2014": 649188,
+              "September/2015": 690668,
+              "September/2016": 657740
+            }
+          ]
+        },
+        {
+          "wilayah": "Indonesia",
+          "tingkat": "Penduduk Miskin",
+          "name": "Jumlah Miskin",
+          "tahun": [
+            {
+              "September/2013": 28606685,
+              "September/2014": 27727778,
+              "September/2015": 28513570,
+              "September/2016": 27764320
+            }
+          ]
+        },
+                {
+          "wilayah": "Banten",
+          "tingkat": "Penduduk Tidak Miskin",
+          "name": "Jumlah",
+          "tahun": [
+            {
+              "September/2013": 10817834,
+              "September/2014": 11126494,
+              "September/2015": 11325308,
+              "September/2016": 11606265
+            }
+          ]
+        },
+        {
+          "wilayah": "Indonesia",
+          "tingkat": "Penduduk Tidak Miskin",
+          "name": "Jumlah",
+          "tahun": [
+            {
+              "September/2013": 221027765,
+              "September/2014": 225337016,
+              "September/2015": 227719363,
+              "September/2016": 231733374
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
