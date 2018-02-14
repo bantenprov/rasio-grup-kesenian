@@ -1,0 +1,583 @@
+[
+  {
+    "chartdata": {
+      "grafik": [
+        {
+          "2013": [
+            {
+              "Tahun":"2013",
+              "wilayah": "Pandeglang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kabupaten",
+              "data": "171"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Pandeglang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kabupaten",
+              "data": "1.183.006"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Pandeglang",
+              "name": "RGKs",
+              "tingkat": "Kabupaten",
+              "data": "14,45"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Lebak",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kabupaten",
+              "data": "123"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Lebak",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kabupaten",
+              "data": "1.247.906"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Lebak",
+              "name": "RGKs",
+              "tingkat": "Kabupaten",
+              "data": "9,86"
+            },
+            {
+              "tahun":"2013",
+              "wilayah": "Tangerang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kabupaten",
+              "data": "255"
+            },
+            {
+              "tahun":"2013",
+              "wilayah": "Tangerang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kabupaten",
+              "data": "3.157.780"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Tangerang",
+              "name": "RGKs",
+              "tingkat": "Kabupaten",
+              "data": "8,08"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Serang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kabupaten",
+              "data": "29"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Serang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kabupaten",
+              "data": "1.450.894"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Serang",
+              "name": "RGKs",
+              "tingkat": "Kabupaten",
+              "data": "2,00"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Tangerang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kota",
+              "data": "430"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Tangerang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kota",
+              "data": "1.952.396"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Tangerang",
+              "name": "RGKs",
+              "tingkat": "Kota",
+              "data": "22,02"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Cilegon",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kota",
+              "data": "71"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Cilegon",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kota",
+              "data": "398.304"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Cilegon",
+              "name": "RGKs",
+              "tingkat": "Kota",
+              "data": "17,83"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Serang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kota",
+              "data": "71"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Serang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kota",
+              "data": "618.802"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Serang",
+              "name": "RGKs",
+              "tingkat": "Kota",
+              "data": "11,47"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Tangerang Selatan",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kota",
+              "data": "49"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Tangerang Selatan",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kota",
+              "data": "1.443.403"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Tangerang Selatan",
+              "name": "RGKs",
+              "tingkat": "Kota",
+              "data": "3,39"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Provinsi Banten",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Provinsi Banten",
+              "T2013": "1.199"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Provinsi Banten",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Provinsi Banten",
+              "T2013": "11.452.491"
+            },
+            {
+              "Tahun":"2013",
+              "wilayah": "Provinsi Banten",
+              "name": "RGKs",
+              "tingkat": "Provinsi Banten",
+              "T2013": "10,47"
+            }
+          ],
+          "2014": [
+            {
+              "Tahun":"2014",
+              "wilayah": "Pandeglang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kabupaten",
+              "data": "209"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Pandeglang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kabupaten",
+              "data": "1.188.405"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Pandeglang",
+              "name": "RGKs",
+              "tingkat": "Kabupaten",
+              "data": "17,59"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Lebak",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kabupaten",
+              "data": "159"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Lebak",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kabupaten",
+              "data": "1.259.305"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Lebak",
+              "name": "RGKs",
+              "tingkat": "Kabupaten",
+              "data": "12,29"
+            },
+            {
+              "tahun":"2014",
+              "wilayah": "Tangerang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kabupaten",
+              "data": "336"
+            },
+            {
+              "tahun":"2014",
+              "wilayah": "Tangerang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kabupaten",
+              "data": "3.264.776"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Tangerang",
+              "name": "RGKs",
+              "tingkat": "Kabupaten",
+              "data": "10,29"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Serang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kabupaten",
+              "data": "41"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Serang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kabupaten",
+              "data": "1.463.094"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Serang",
+              "name": "RGKs",
+              "tingkat": "Kabupaten",
+              "data": "2,80"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Tangerang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kota",
+              "data": "851"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Tangerang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kota",
+              "data": "1.999.894"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Tangerang",
+              "name": "RGKs",
+              "tingkat": "Kota",
+              "data": "42,55"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Cilegon",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kota",
+              "data": "73"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Cilegon",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kota",
+              "data": "405.303"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Cilegon",
+              "name": "RGKs",
+              "tingkat": "Kota",
+              "data": "18,01"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Serang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kota",
+              "data": "127"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Serang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kota",
+              "data": "631.101"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Serang",
+              "name": "RGKs",
+              "tingkat": "Kota",
+              "data": "20,12"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Tangerang Selatan",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kota",
+              "data": "59"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Tangerang Selatan",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kota",
+              "data": "1.492.999"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Tangerang Selatan",
+              "name": "RGKs",
+              "tingkat": "Kota",
+              "data": "3,95"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Provinsi Banten",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Provinsi Banten",
+              "T2013": "1.855"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Provinsi Banten",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Provinsi Banten",
+              "T2013": "11.704.877"
+            },
+            {
+              "Tahun":"2014",
+              "wilayah": "Provinsi Banten",
+              "name": "RGKs",
+              "tingkat": "Provinsi Banten",
+              "T2013": "15,85"
+            }
+          ],
+          "2015": [
+            {
+              "Tahun":"2015",
+              "wilayah": "Pandeglang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kabupaten",
+              "data": "209"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Pandeglang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kabupaten",
+              "data": "1.194.911"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Pandeglang",
+              "name": "RGKs",
+              "tingkat": "Kabupaten",
+              "data": "17,49"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Lebak",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kabupaten",
+              "data": "154"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Lebak",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kabupaten",
+              "data": "1.269.812"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Lebak",
+              "name": "RGKs",
+              "tingkat": "Kabupaten",
+              "data": "12,13"
+            },
+            {
+              "tahun":"2015",
+              "wilayah": "Tangerang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kabupaten",
+              "data": "336"
+            },
+            {
+              "tahun":"2015",
+              "wilayah": "Tangerang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kabupaten",
+              "data": "3.370.594"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Tangerang",
+              "name": "RGKs",
+              "tingkat": "Kabupaten",
+              "data": "9,97"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Serang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kabupaten",
+              "data": "37"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Serang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kabupaten",
+              "data": "1.474.301"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Serang",
+              "name": "RGKs",
+              "tingkat": "Kabupaten",
+              "data": "2,51"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Tangerang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kota",
+              "data": "851"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Tangerang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kota",
+              "data": "2.047.105"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Tangerang",
+              "name": "RGKs",
+              "tingkat": "Kota",
+              "data": "41,57"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Cilegon",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kota",
+              "data": "73"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Cilegon",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kota",
+              "data": "412.106"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Cilegon",
+              "name": "RGKs",
+              "tingkat": "Kota",
+              "data": "17,71"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Serang",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kota",
+              "data": "127"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Serang",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kota",
+              "data": "643.205"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Serang",
+              "name": "RGKs",
+              "tingkat": "Kota",
+              "data": "19,74"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Tangerang Selatan",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Kota",
+              "data": "59"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Tangerang Selatan",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Kota",
+              "data": "1.543.209"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Tangerang Selatan",
+              "name": "RGKs",
+              "tingkat": "Kota",
+              "data": "3,82"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Provinsi Banten",
+              "name": "Jumlah Grup Kesenian",
+              "tingkat": "Provinsi Banten",
+              "T2013": "1.846"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Provinsi Banten",
+              "name": "Jumlah Penduduk",
+              "tingkat": "Provinsi Banten",
+              "T2013": "11.955.243"
+            },
+            {
+              "Tahun":"2015",
+              "wilayah": "Provinsi Banten",
+              "name": "RGKs",
+              "tingkat": "Provinsi Banten",
+              "T2013": "15,44"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
