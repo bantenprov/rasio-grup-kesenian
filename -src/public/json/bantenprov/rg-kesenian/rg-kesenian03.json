@@ -1,0 +1,104 @@
+[
+  {
+    "chartdata": {
+      "grafik": [
+        {
+          "wilayah": "Pandeglang",
+          "tingkat": "Kabupaten",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 1183006,
+              "2014": 1188405,
+              "2015": 1194911
+            }
+          ]
+        },
+        {
+          "wilayah": "Lebak",
+          "tingkat": "Kabupaten",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 1247906,
+              "2014": 1259305,
+              "2015": 1269812
+            }
+          ]
+        },
+        {
+          "wilayah": "Tangerang",
+          "tingkat": "Kabupaten",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 3157780,
+              "2014": 3264776,
+              "2015": 3370594
+            }
+          ]
+        },
+        {
+          "wilayah": "Serang",
+          "tingkat": "Kabupaten",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 1450894,
+              "2014": 1463094,
+              "2015": 1474301
+            }
+          ]
+        },
+        {
+          "wilayah": "Tangerang",
+          "tingkat": "Kota",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 1952396,
+              "2014": 1999894,
+              "2015": 2047105
+            }
+          ]
+        },
+        {
+          "wilayah": "Cilegon",
+          "tingkat": "Kota",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 398304,
+              "2014": 405303,
+              "2015": 412106
+            }
+          ]
+        },
+        {
+          "wilayah": "Serang",
+          "tingkat": "Kota",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 618802,
+              "2014": 631101,
+              "2015": 643205
+            }
+          ]
+        },
+        {
+          "wilayah": "Tangerang Selatan",
+          "tingkat": "Kota",
+          "name": "Jumlah Penduduk",
+          "tahun": [
+            {
+              "2013": 1443403,
+              "2014": 1492999,
+              "2015": 1543209
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
