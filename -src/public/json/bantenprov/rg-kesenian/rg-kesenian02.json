@@ -1,0 +1,154 @@
+[
+  {
+    "2013": [
+      {
+        "wilayah": "Pandeglang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kabupaten",
+        "data": 171
+      },
+      {
+        "wilayah": "Lebak",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kabupaten",
+        "data": 123
+      },
+      {
+        "wilayah": "Tangerang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kabupaten",
+        "data": 255
+      },
+      {
+        "wilayah": "Serang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kabupaten",
+        "data": 29
+      },
+      {
+        "wilayah": "Tangerang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kota",
+        "data": 430
+      }, 
+      {
+        "wilayah": "Cilegon",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kota",
+        "data": 71
+      },
+      {
+        "wilayah": "Serang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kota",
+        "data": 71
+      },
+      {
+        "wilayah": "Tangerang Selatann",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kota",
+        "data": 49
+      }
+    ],
+    "2014": [
+      {
+        "wilayah": "Pandeglang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kabupaten",
+        "data": 209
+      },
+      {
+        "wilayah": "Lebak",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kabupaten",
+        "data": 159
+      },
+      {
+        "wilayah": "Tangerang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kabupaten",
+        "data": 336
+      },
+      {
+        "wilayah": "Serang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kabupaten",
+        "data": 41
+      },
+      {
+        "wilayah": "Tangerang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kota",
+        "data": 851
+      },
+       {
+        "wilayah": "Cilegon",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kota",
+        "data": 73
+      },
+      {
+        "wilayah": "Serang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kota",
+        "data": 127
+      },
+      {
+        "wilayah": "Tangerang Selatan",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kota",
+        "data": 59
+      }
+    ],
+    "2015": [
+      {
+        "wilayah": "Pandeglang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kabupaten",
+        "data": 209
+      },
+      {
+        "wilayah": "Lebak",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kabupaten",
+        "data": 154
+      },
+      {
+        "wilayah": "Tangerang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kabupaten",
+        "data": 336
+      },
+      {
+        "wilayah": "Serang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kabupaten",
+        "data": 37
+      },
+      {
+        "wilayah": "Tangerang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kota",
+        "data": 851
+      },
+       {
+        "wilayah": "Cilegon",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kota",
+        "data": 73
+      },
+      {
+        "wilayah": "Serang",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kota",
+        "data": 127
+      },
+      {
+        "wilayah": "Tangerang Selatan",
+        "name": "Jumlah Grup Kesenian",
+        "tingkat": "Kota",
+        "data": 59
+      }
+    ]
+  }
+]
