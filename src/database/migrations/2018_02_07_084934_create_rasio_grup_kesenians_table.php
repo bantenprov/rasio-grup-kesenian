@@ -3,7 +3,7 @@
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 
-class CreateAngkaMelekHurufsTable extends Migration
+class CreateRasioGrupKeseniansTable extends Migration
 {
     /**
      * Run the migrations.
@@ -12,7 +12,7 @@ class CreateAngkaMelekHurufsTable extends Migration
      */
 	public function up()
 	{
-		Schema::create('angka_melek_hurufs', function(Blueprint $table) {
+		Schema::create('rasio_grup_kesenians', function(Blueprint $table) {
 			$table->increments('id');
 			$table->string('label', 255);
 			$table->string('description', 255)->nullable();
@@ -28,6 +28,6 @@ class CreateAngkaMelekHurufsTable extends Migration
      */
 	public function down()
 	{
-		Schema::drop('angka_melek_hurufs');
+		Schema::drop('rasio_grup_kesenians');
 	}
 }

@@ -5,11 +5,8 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2011",
-      "title": "Penyelesaian Tindak Pidana POLDA Provinsi Banten",
+      "title": "Jumlah Grup Kesenian Kabupaten Pandeglang",
       "data": [
-        "2010",
-        "2011",
-        "2012",
         "2013",
         "2014",
         "2015"
@@ -18,12 +15,9 @@
     "series": [
       {
         "data": [
-          7.92,
-          7.95,
-          8.06,
-          8.17,
-          8.19,
-          8.27
+          171,
+          209,
+          209
         ]
       }
     ]
@@ -31,13 +25,11 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "title": "Penyelesaian Tindak Pidana POLDA Negara Indonesia",
+      "region": "Provinsi",
+      "name": "Banten",
       "yyyy": "2011",
+      "title": "Jumlah Grup Kesenian Kabupaten Lebak",
       "data": [
-        "2010",
-        "2011",
-        "2012",
         "2013",
         "2014",
         "2015"
@@ -46,12 +38,147 @@
     "series": [
       {
         "data": [
-          7.46,
-          7.52,
-          7.59,
-          7.61,
-          7.73,
-          7.84
+          123,
+          159,
+          154
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Jumlah Grup Kesenian Kabupaten Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          255,
+          336,
+          336
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Jumlah Grup Kesenian Kabupaten Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          29,
+          41,
+          37
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Jumlah Grup Kesenian Kota Tangerang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          430,
+          851,
+          851
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Jumlah Grup Kesenian Kota Cilegon",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          71,
+          73,
+          73
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Jumlah Grup Kesenian Kota Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          71,
+          127,
+          127
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2011",
+      "title": "Jumlah Grup Kesenian Kota Tangerang Selatan",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          49,
+          59,
+          59
         ]
       }
     ]

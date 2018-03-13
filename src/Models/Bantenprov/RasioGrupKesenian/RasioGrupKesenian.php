@@ -11,7 +11,7 @@ class RasioGrupKesenian extends Model
 
     public $timestamps = true;
 
-    protected $table = 'angka_melek_hurufs';
+    protected $table = 'rasio_grup_kesenians';
     protected $dates = [
         'deleted_at'
     ];

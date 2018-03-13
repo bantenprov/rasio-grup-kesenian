@@ -169,6 +169,21 @@ $ php artisan vendor:publish --tag=rasio-grup-kesenian-public
 #### Edit menu `resources/assets/js/menu.js`
 ```javascript
 {
+    name: 'Dashboard',
+    icon: 'fa fa-lock',
+    childType: 'collapse',
+    childItem: [
+        //== ...
+        {
+            name: 'Rasio Grup Kesenian',
+            link: '/dashboard/rasio-grup-kesenian',
+            icon: 'fa fa-angle-double-right'
+        },
+          //== ...
+```
+
+```javascript
+{
     name: 'Admin',
     icon: 'fa fa-lock',
     childType: 'collapse',
@@ -183,21 +198,7 @@ $ php artisan vendor:publish --tag=rasio-grup-kesenian-public
             link: '/admin/rasio-grup-kesenian',
             icon: 'fa fa-angle-double-right'
           },
-          //== ...
-```
-
-```javascript
-{
-    name: 'Dashboard',
-    icon: 'fa fa-lock',
-    childType: 'collapse',
-    childItem: [
-        //== ...
-        {
-            name: 'Rasio Grup Kesenian',
-            link: '/dashboard/rasio-grup-kesenian',
-            icon: 'fa fa-angle-double-right'
-        },
+        
         //== ...
     ]
 },
