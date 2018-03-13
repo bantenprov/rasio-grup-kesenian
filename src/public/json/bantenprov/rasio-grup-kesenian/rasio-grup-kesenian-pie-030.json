@@ -4,18 +4,20 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Penyelesaian Tindak Pidana POLDA Provinsi Banten",
+      "title": "Jumlah Penduduk Provinsi Banten 2013",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":7.92,"name":"2010"},
-          {"value":7.95,"name":"2011"},
-          {"value":8.06,"name":"2012"},
-          {"value":8.17,"name":"2013"},
-          {"value":8.19,"name":"2014"},
-          {"value":8.27,"name":"2015"}
+          {"value":1183006,"name":"Kabupaten Pandeglang"},
+          {"value":1247906,"name":"Kabupaten Lebak"},
+          {"value":3157780,"name":"Kabupaten Tangerang"},
+          {"value":1450894,"name":"Kabupaten Serang"},
+          {"value":1952396,"name":"Kota Tangerang"},
+          {"value":398304,"name":"Kota Cilegon"},
+          {"value":618802,"name":"Kota Serang"},
+          {"value":1443403,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -25,18 +27,112 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Penyelesaian Tindak Pidana POLDA Negara Indonesia",
+      "title": "Jumlah Penduduk Provinsi Banten 2014",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":7.46,"name":"2010"},
-          {"value":7.52,"name":"2011"},
-          {"value":7.59,"name":"2012"},
-          {"value":7.61,"name":"2013"},
-          {"value":7.73,"name":"2014"},
-          {"value":7.84,"name":"2015"}
+          {"value":1188405,"name":"Kabupaten Pandeglang"},
+          {"value":1259305,"name":"Kabupaten Lebak"},
+          {"value":3264776,"name":"Kabupaten Tangerang"},
+          {"value":1463094,"name":"Kabupaten Serang"},
+          {"value":1999894,"name":"Kota Tangerang"},
+          {"value":405303,"name":"Kota Cilegon"},
+          {"value":631101,"name":"Kota Serang"},
+          {"value":1492999,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Jumlah Penduduk Provinsi Banten 2015",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":1194911,"name":"Kabupaten Pandeglang"},
+          {"value":1269812,"name":"Kabupaten Lebak"},
+          {"value":3370594,"name":"Kabupaten Tangerang"},
+          {"value":1474301,"name":"Kabupaten Serang"},
+          {"value":2047105,"name":"Kota Tangerang"},
+          {"value":412106,"name":"Kota Cilegon"},
+          {"value":643205,"name":"Kota Serang"},
+          {"value":1543209,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Rasio Grup Kesenian 2013",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":171,"name":"Kabupaten Pandeglang"},
+          {"value":123,"name":"Kabupaten Lebak"},
+          {"value":255,"name":"Kabupaten Tangerang"},
+          {"value":29,"name":"Kabupaten Serang"},
+          {"value":430,"name":"Kota Tangerang"},
+          {"value":71,"name":"Kota Cilegon"},
+          {"value":71,"name":"Kota Serang"},
+          {"value":49,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Rasio Grup Kesenian 2014",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":209,"name":"Kabupaten Pandeglang"},
+          {"value":159,"name":"Kabupaten Lebak"},
+          {"value":336,"name":"Kabupaten Tangerang"},
+          {"value":41,"name":"Kabupaten Serang"},
+          {"value":851,"name":"Kota Tangerang"},
+          {"value":73,"name":"Kota Cilegon"},
+          {"value":127,"name":"Kota Serang"},
+          {"value":59,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Rasio Grup Kesenian 2015",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":209,"name":"Kabupaten Pandeglang"},
+          {"value":154,"name":"Kabupaten Lebak"},
+          {"value":336,"name":"Kabupaten Tangerang"},
+          {"value":37,"name":"Kabupaten Serang"},
+          {"value":851,"name":"Kota Tangerang"},
+          {"value":73,"name":"Kota Cilegon"},
+          {"value":127,"name":"Kota Serang"},
+          {"value":59,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]

@@ -1,7 +1,7 @@
 <template>
   <div class="card">
     <div class="card-header">
-      <i class="fa fa-table" aria-hidden="true"></i> Edit Penyelesaian Tindak Pidana POLDA
+      <i class="fa fa-table" aria-hidden="true"></i> Edit Rasio Grup Kesenian
 
       <ul class="nav nav-pills card-header-pills pull-right">
         <li class="nav-item">
@@ -54,9 +54,9 @@ export default {
     axios.get('api/rasio-grup-kesenian/' + this.$route.params.id + '/edit')
       .then(response => {
         if (response.data.status == true) {
-          this.model.label = response.data.angka_melek_huruf.label;
-          this.model.old_label = response.data.angka_melek_huruf.label;
-          this.model.description = response.data.angka_melek_huruf.description;
+          this.model.label = response.data.rasio_grup_kesenian.label;
+          this.model.old_label = response.data.rasio_grup_kesenian.label;
+          this.model.description = response.data.rasio_grup_kesenian.description;
         } else {
           alert('Failed');
         }
@@ -108,8 +108,8 @@ export default {
       axios.get('api/rasio-grup-kesenian/' + this.$route.params.id + '/edit')
         .then(response => {
           if (response.data.status == true) {
-            this.model.label = response.data.angka_melek_huruf.label;
-            this.model.description = response.data.angka_melek_huruf.description;
+            this.model.label = response.data.rasio_grup_kesenian.label;
+            this.model.description = response.data.rasio_grup_kesenian.description;
           } else {
             alert('Failed');
           }

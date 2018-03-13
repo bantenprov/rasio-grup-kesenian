@@ -18,7 +18,7 @@ class BantenprovRasioGrupKesenianSeederRasioGrupKesenian extends Seeder
 	{
         Model::unguard();
 
-        $angka_melek_hurufs = (object) [
+        $rasio_grup_kesenians = (object) [
             (object) [
                 'label' => 'G2G',
                 'description' => 'Goverment to Goverment',
@@ -37,13 +37,13 @@ class BantenprovRasioGrupKesenianSeederRasioGrupKesenian extends Seeder
             ],
         ];
 
-        foreach ($angka_melek_hurufs as $angka_melek_huruf) {
+        foreach ($rasio_grup_kesenians as $rasio_grup_kesenian) {
             $model = RasioGrupKesenian::updateOrCreate(
                 [
-                    'label' => $angka_melek_huruf->label,
+                    'label' => $rasio_grup_kesenian->label,
                 ],
                 [
-                    'description' => $angka_melek_huruf->description,
+                    'description' => $rasio_grup_kesenian->description,
                 ]
             );
             $model->save();

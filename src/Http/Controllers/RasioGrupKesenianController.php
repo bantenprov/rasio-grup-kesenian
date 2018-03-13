@@ -26,9 +26,9 @@ class RasioGrupKesenianController extends Controller
      *
      * @return void
      */
-    public function __construct(RasioGrupKesenian $angka_melek_huruf)
+    public function __construct(RasioGrupKesenian $rasio_grup_kesenian)
     {
-        $this->angka_melek_huruf = $angka_melek_huruf;
+        $this->rasio_grup_kesenian = $rasio_grup_kesenian;
     }
 
     /**
@@ -41,9 +41,9 @@ class RasioGrupKesenianController extends Controller
         if (request()->has('sort')) {
             list($sortCol, $sortDir) = explode('|', request()->sort);
 
-            $query = $this->angka_melek_huruf->orderBy($sortCol, $sortDir);
+            $query = $this->rasio_grup_kesenian->orderBy($sortCol, $sortDir);
         } else {
-            $query = $this->angka_melek_huruf->orderBy('id', 'asc');
+            $query = $this->rasio_grup_kesenian->orderBy('id', 'asc');
         }
 
         if ($request->exists('filter')) {
@@ -69,12 +69,12 @@ class RasioGrupKesenianController extends Controller
      */
     public function create()
     {
-        $angka_melek_huruf = $this->angka_melek_huruf;
+        $rasio_grup_kesenian = $this->rasio_grup_kesenian;
 
-        $response['angka_melek_huruf'] = $angka_melek_huruf;
+        $response['rasio_grup_kesenian'] = $rasio_grup_kesenian;
         $response['status'] = true;
 
-        return response()->json($angka_melek_huruf);
+        return response()->json($rasio_grup_kesenian);
     }
 
     /**
@@ -85,29 +85,29 @@ class RasioGrupKesenianController extends Controller
      */
     public function store(Request $request)
     {
-        $angka_melek_huruf = $this->angka_melek_huruf;
+        $rasio_grup_kesenian = $this->rasio_grup_kesenian;
 
         $validator = Validator::make($request->all(), [
-            'label' => 'required|max:16|unique:angka_melek_hurufs,label',
+            'label' => 'required|max:16|unique:rasio_grup_kesenians,label',
             'description' => 'max:255',
         ]);
 
         if($validator->fails()){
-            $check = $angka_melek_huruf->where('label',$request->label)->whereNull('deleted_at')->count();
+            $check = $rasio_grup_kesenian->where('label',$request->label)->whereNull('deleted_at')->count();
 
             if ($check > 0) {
                 $response['message'] = 'Failed, label ' . $request->label . ' already exists';
             } else {
-                $angka_melek_huruf->label = $request->input('label');
-                $angka_melek_huruf->description = $request->input('description');
-                $angka_melek_huruf->save();
+                $rasio_grup_kesenian->label = $request->input('label');
+                $rasio_grup_kesenian->description = $request->input('description');
+                $rasio_grup_kesenian->save();
 
                 $response['message'] = 'success';
             }
         } else {
-            $angka_melek_huruf->label = $request->input('label');
-            $angka_melek_huruf->description = $request->input('description');
-            $angka_melek_huruf->save();
+            $rasio_grup_kesenian->label = $request->input('label');
+            $rasio_grup_kesenian->description = $request->input('description');
+            $rasio_grup_kesenian->save();
 
             $response['message'] = 'success';
         }
@@ -125,9 +125,9 @@ class RasioGrupKesenianController extends Controller
      */
     public function show($id)
     {
-        $angka_melek_huruf = $this->angka_melek_huruf->findOrFail($id);
+        $rasio_grup_kesenian = $this->rasio_grup_kesenian->findOrFail($id);
 
-        $response['angka_melek_huruf'] = $angka_melek_huruf;
+        $response['rasio_grup_kesenian'] = $rasio_grup_kesenian;
         $response['status'] = true;
 
         return response()->json($response);
@@ -136,14 +136,14 @@ class RasioGrupKesenianController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\RasioGrupKesenian  $angka_melek_huruf
+     * @param  \App\RasioGrupKesenian  $rasio_grup_kesenian
      * @return \Illuminate\Http\Response
      */
     public function edit($id)
     {
-        $angka_melek_huruf = $this->angka_melek_huruf->findOrFail($id);
+        $rasio_grup_kesenian = $this->rasio_grup_kesenian->findOrFail($id);
 
-        $response['angka_melek_huruf'] = $angka_melek_huruf;
+        $response['rasio_grup_kesenian'] = $rasio_grup_kesenian;
         $response['status'] = true;
 
         return response()->json($response);
@@ -153,12 +153,12 @@ class RasioGrupKesenianController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\RasioGrupKesenian  $angka_melek_huruf
+     * @param  \App\RasioGrupKesenian  $rasio_grup_kesenian
      * @return \Illuminate\Http\Response
      */
     public function update(Request $request, $id)
     {
-        $angka_melek_huruf = $this->angka_melek_huruf->findOrFail($id);
+        $rasio_grup_kesenian = $this->rasio_grup_kesenian->findOrFail($id);
 
         if ($request->input('old_label') == $request->input('label'))
         {
@@ -168,27 +168,27 @@ class RasioGrupKesenianController extends Controller
             ]);
         } else {
             $validator = Validator::make($request->all(), [
-                'label' => 'required|max:16|unique:angka_melek_hurufs,label',
+                'label' => 'required|max:16|unique:rasio_grup_kesenians,label',
                 'description' => 'max:255',
             ]);
         }
 
         if ($validator->fails()) {
-            $check = $angka_melek_huruf->where('label',$request->label)->whereNull('deleted_at')->count();
+            $check = $rasio_grup_kesenian->where('label',$request->label)->whereNull('deleted_at')->count();
 
             if ($check > 0) {
                 $response['message'] = 'Failed, label ' . $request->label . ' already exists';
             } else {
-                $angka_melek_huruf->label = $request->input('label');
-                $angka_melek_huruf->description = $request->input('description');
-                $angka_melek_huruf->save();
+                $rasio_grup_kesenian->label = $request->input('label');
+                $rasio_grup_kesenian->description = $request->input('description');
+                $rasio_grup_kesenian->save();
 
                 $response['message'] = 'success';
             }
         } else {
-            $angka_melek_huruf->label = $request->input('label');
-            $angka_melek_huruf->description = $request->input('description');
-            $angka_melek_huruf->save();
+            $rasio_grup_kesenian->label = $request->input('label');
+            $rasio_grup_kesenian->description = $request->input('description');
+            $rasio_grup_kesenian->save();
 
             $response['message'] = 'success';
         }
@@ -201,14 +201,14 @@ class RasioGrupKesenianController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\RasioGrupKesenian  $angka_melek_huruf
+     * @param  \App\RasioGrupKesenian  $rasio_grup_kesenian
      * @return \Illuminate\Http\Response
      */
     public function destroy($id)
     {
-        $angka_melek_huruf = $this->angka_melek_huruf->findOrFail($id);
+        $rasio_grup_kesenian = $this->rasio_grup_kesenian->findOrFail($id);
 
-        if ($angka_melek_huruf->delete()) {
+        if ($rasio_grup_kesenian->delete()) {
             $response['status'] = true;
         } else {
             $response['status'] = false;

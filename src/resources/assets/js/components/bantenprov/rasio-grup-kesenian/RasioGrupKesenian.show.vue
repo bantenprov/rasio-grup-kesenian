@@ -2,8 +2,13 @@
   <div>
 
     <div class="card mb-3">
-      <div class="card-header">Grafik Produk Domestik Regional Bruto</div>
+      <div class="card-header">Grafik Rasio Grup Kesenian
+      <button class="btn btn-primary btn-sm" role="button" @click="back">
+            <i class="fa fa-arrow-left" aria-hidden="true"></i>
+          </button></div>
+
       <div class="card-body">
+
         <echarts-rasio-grup-kesenian></echarts-rasio-grup-kesenian>
       </div><!-- /.card-body -->
     </div><!-- /.card -->
@@ -29,3 +34,25 @@
 
   </div>
 </template>
+<script>
+export default {
+  data() {
+    return {
+      state: {},
+      model: {
+        label: "",
+        description: ""
+      }
+    }
+  },
+  methods: {
+    onSubmit: function() {
+      let app = this;
+
+    },
+    back() {
+      window.location = '#/admin/rasio-grup-kesenian';
+    }
+  }
+}
+</script>
